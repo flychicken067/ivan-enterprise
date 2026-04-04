@@ -1,0 +1,130 @@
+{
+  "philosophy": "Follow operators, not consultants. Only primary sources — people who make decisions, not people who comment on decisions.",
+  "version": "1.0",
+  "x_accounts": [
+    {
+      "handle": "satyanadella",
+      "name": "Satya Nadella",
+      "role": "CEO, Microsoft",
+      "why": "Running the world's most valuable enterprise software company — every decision is a case study"
+    },
+    {
+      "handle": "levie",
+      "name": "Aaron Levie",
+      "role": "CEO, Box",
+      "why": "25 years operating enterprise SaaS — candid about what actually works"
+    },
+    {
+      "handle": "parkerconrad",
+      "name": "Parker Conrad",
+      "role": "CEO, Rippling",
+      "why": "Compound startup thesis in practice — rare operator who writes about system design"
+    },
+    {
+      "handle": "sama",
+      "name": "Sam Altman",
+      "role": "CEO, OpenAI",
+      "why": "Defining how AI reshapes enterprise — primary source on capability timelines"
+    },
+    {
+      "handle": "jenshunhuang",
+      "name": "Jensen Huang",
+      "role": "CEO, NVIDIA",
+      "why": "Infrastructure operator — his calls on compute shape every enterprise AI decision"
+    },
+    {
+      "handle": "dharmesh",
+      "name": "Dharmesh Shah",
+      "role": "CTO, HubSpot",
+      "why": "Building AI into enterprise product — transparent about lessons learned"
+    },
+    {
+      "handle": "jasonlk",
+      "name": "Jason Lemkin",
+      "role": "Founder, SaaStr",
+      "why": "Operator-turned-community builder — real GTM data from 10,000+ SaaS founders"
+    },
+    {
+      "handle": "patrickc",
+      "name": "Patrick Collison",
+      "role": "CEO, Stripe",
+      "why": "Rare CEO who publishes primary research and operational principles"
+    },
+    {
+      "handle": "DarioAmodei",
+      "name": "Dario Amodei",
+      "role": "CEO, Anthropic",
+      "why": "AI safety operator — how he thinks about enterprise deployment risk"
+    },
+    {
+      "handle": "bchesky",
+      "name": "Brian Chesky",
+      "role": "CEO, Airbnb",
+      "why": "Rebuilt company from scratch — post-COVID ops lessons apply broadly"
+    },
+    {
+      "handle": "Benioff",
+      "name": "Marc Benioff",
+      "role": "CEO, Salesforce",
+      "why": "30 years of enterprise sales — Agentforce deployment is real-time case study"
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "How I Built This",
+      "url": "https://www.npr.org/podcasts/510313/how-i-built-this",
+      "why": "Founders tell operational stories in their own words — no analyst filter"
+    },
+    {
+      "name": "Acquired",
+      "url": "https://www.acquired.fm",
+      "why": "Deep company histories from primary documents — earnings calls, S-1s, interviews"
+    },
+    {
+      "name": "My First Million",
+      "url": "https://www.mfmpod.com",
+      "why": "Operators sharing real numbers and tactics — not theory"
+    }
+  ],
+  "primary_sources": [
+    {
+      "name": "Microsoft Investor Relations",
+      "url": "https://www.microsoft.com/en-us/investor",
+      "type": "earnings",
+      "why": "Satya's actual language on enterprise AI adoption — quarterly"
+    },
+    {
+      "name": "Stripe Annual Letter",
+      "url": "https://stripe.com/annual-updates",
+      "type": "letter",
+      "why": "Patrick Collison's operator principles — published annually"
+    },
+    {
+      "name": "Rippling Engineering Blog",
+      "url": "https://www.rippling.com/blog/engineering",
+      "type": "blog",
+      "why": "Compound product architecture in practice"
+    },
+    {
+      "name": "HubSpot Product Blog",
+      "url": "https://product.hubspot.com",
+      "type": "blog",
+      "why": "Dharmesh's AI integration decisions — real product decisions"
+    },
+    {
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news",
+      "type": "blog",
+      "why": "Primary source on Claude enterprise deployment"
+    }
+  ],
+  "never_follow": [
+    "McKinsey Insights",
+    "Harvard Business Review",
+    "Gartner",
+    "Forrester",
+    "Any 'analyst report'",
+    "Any 'consultant perspective'",
+    "Any 'expert commentary' from someone who hasn't operated a company"
+  ]
+}
