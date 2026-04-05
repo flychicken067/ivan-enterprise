@@ -13,6 +13,8 @@ A weekly memo delivered to Telegram with:
 - 1 concrete action for the week
 - 1 article candidate flagged for ivan-article pipeline
 
+See [`examples/sample-digest.md`](examples/sample-digest.md) for a complete real output — 2026-W14 digest covering Satya Nadella's IT replacement announcement, Parker Conrad's SaaS consolidation thesis, and Anthropic's emotion vectors paper through the three-bills lens.
+
 ## Quick Start
 
 ```bash
